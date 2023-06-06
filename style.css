@@ -1,0 +1,39 @@
+*{
+    background-color: bisque;
+}
+
+.head1{
+    text-align: center;
+    background-color: wheat;
+    margin: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+/* .a{
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 2px;
+    text-align: center;
+} */
+
+.centered-image {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  }
+
+ .link-container a {
+    margin: 70px;
+  }
+
+.link-container{
+    text-align: center;
+}
+
+.image{
+    height: 100px;
+    
+}
